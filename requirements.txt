@@ -1,0 +1,4 @@
+instructor>=1.9.2
+jupyterlab>=4.4.4
+openai>=1.97.0
+python-dotenv>=1.1.1
