@@ -12,8 +12,8 @@ data-science-assessment/
 ├── prompt_engineering.ipynb     # Main assignment notebook
 ├── transcript.txt               # Sample legal deposition transcript
 ├── requirements.txt             # Python dependencies
-├── pyproject.toml              # Project configuration
-└── uv.lock                     # UV lock file
+├── pyproject.toml               # Project configuration
+└── uv.lock                      # UV lock file
 ```
 
 ## Prerequisites
@@ -56,7 +56,7 @@ touch .env
 
 2. Add your API key to the `.env` file:
 
-```
+```sh
 BASE10_API_KEY=your_api_key_here
 ```
 
