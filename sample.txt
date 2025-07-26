@@ -1,0 +1,64 @@
+# Deposition Summary
+
+**Case Title:**  
+**Deponent:**  
+**Date of Deposition:** 
+**Timestamps Covered:**  
+**Deposed By:**  
+
+---
+
+## 1. Introduction
+- Deponent’s identity and role in the matter  
+- Attorneys present and who they represent  
+- Instructions or disclosures given to the deponent  
+- Any notes about demeanor or cooperation early on  
+
+---
+
+## 2. Key Testimony Areas
+
+### A. Background and Role
+- Current job title and employer  
+- Description of job duties  
+- Relationship to the case or subject matter  
+
+### B. Scope of Work / Responsibilities
+- Decision-making authority  
+- Interactions with consultants, teams, or other parties  
+- Documents reviewed or prepared  
+- Limits of their knowledge or role  
+
+### C. Legal Relevance
+- Any direct or implied admissions  
+- Contradictions with previous statements  
+- Factual context relevant to liability or damages  
+- Regulatory or contractual references  
+
+---
+
+## 3. Credibility Notes
+- Clarity and confidence of answers  
+- Technical difficulties or language barriers  
+- Signs of evasion, forgetfulness, or discomfort  
+- Use of hedging language  
+
+---
+
+## 4. Objections Noted
+- Major objections and by whom (e.g., form, relevance)  
+- Impact on testimony (e.g., refusal to answer, delay)  
+
+---
+
+## 5. Important Quotes (with Timestamp)
+> Example:  
+> *"I do not normally review leases." (00:06:45)*  
+> *"We just work with our consultant to close the spills." (00:07:06)*  
+
+---
+
+## 6. Summary of Key Points
+- Bullet point list of core facts and admissions  
+- Highlight anything that could affect the legal strategy  
+- Concise — no more than 3–5 points for quick scanning  
